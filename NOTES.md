@@ -10,3 +10,6 @@ would put in a sessionConfig object in server.js
 session middleware
 const sessions = require('express-session);
 server.use(session(sessionConfig));
+
+4/22/20 
+Need to add in more stuff with sever.js and model[X]/routers[]
